@@ -1,4 +1,5 @@
-Program Prediksi Kelulusan Mahasiswa
+Prediksi Kelulusan Mahasiswa Tepat Waktu Berdasarkan Indeks Prestasi Semester Menggunakan Metode Decision Tree
+
 Deskripsi
 Program ini merupakan aplikasi sederhana untuk memprediksi kategori kelulusan mahasiswa berdasarkan nilai Indeks Prestasi Semester (IPS) dari semester 1 hingga semester 8. Model yang digunakan untuk prediksi adalah Decision Tree Classifier.
 
